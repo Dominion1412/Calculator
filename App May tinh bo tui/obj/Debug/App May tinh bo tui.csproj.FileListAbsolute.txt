@@ -1,0 +1,10 @@
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\bin\Debug\App May tinh bo tui.exe.config
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\bin\Debug\App May tinh bo tui.exe
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\bin\Debug\App May tinh bo tui.pdb
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App May tinh bo tui.csprojResolveAssemblyReference.cache
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App_May_tinh_bo_tui.Form1.resources
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App_May_tinh_bo_tui.Properties.Resources.resources
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App May tinh bo tui.csproj.GenerateResource.Cache
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App May tinh bo tui.csproj.CoreCompileInputs.cache
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App May tinh bo tui.exe
+D:\Tai lieu\C#\App May tinh bo tui\App May tinh bo tui\obj\Debug\App May tinh bo tui.pdb
